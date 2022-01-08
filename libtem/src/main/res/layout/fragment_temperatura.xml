@@ -12,7 +12,7 @@
 
     <EditText
         android:id="@+id/temperatura"
-        android:text="introduce Temperatura"
+        android:hint="introduce Temperatura"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
